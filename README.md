@@ -20,6 +20,6 @@ git clone https://github.com/Anonimo501/SambaRelay.git
 
 cd SambaRelay
 
-chmod +x smb_relay.sh
+chmod +x SMB_Relay.sh
 
-./smb_relay.sh
+./SMB_Relay.sh
