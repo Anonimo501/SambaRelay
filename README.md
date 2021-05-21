@@ -13,16 +13,16 @@ Esta Version del script basicamente lo que se le añade es el menu de opciones q
 
 El script se ejecuto sobre ParrotOS 4.10
 
-![Screenshot_1](https://user-images.githubusercontent.com/67207446/119040557-2eaae600-b97b-11eb-8cf6-0ac4d2581527.png)
+![smb relay v2](https://user-images.githubusercontent.com/67207446/119186517-ce30ad00-ba3d-11eb-9faf-21401a143fbc.PNG)
 
 
 
 
-git clone https://github.com/Anonimo501/SambaRelay.git
+git clone https://github.com/Anonimo501/SambaRelay_V2.git
 
-cd SambaRelay
+cd SambaRelay_V2/
 
-chmod +x SMB_Relay.sh
+chmod +x SMB_Relay_v2.sh
 
 ./SMB_Relay.sh
 
