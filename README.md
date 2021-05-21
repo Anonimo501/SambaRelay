@@ -13,6 +13,9 @@ Esta Version del script basicamente lo que se le añade es el menu de opciones q
 
 El script se ejecuto sobre ParrotOS 4.10
 
+## Version del Script
+Version 2
+
 ![smb relay v2](https://user-images.githubusercontent.com/67207446/119186517-ce30ad00-ba3d-11eb-9faf-21401a143fbc.PNG)
 
 
