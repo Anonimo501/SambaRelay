@@ -23,3 +23,9 @@ cd SambaRelay
 chmod +x SMB_Relay.sh
 
 ./SMB_Relay.sh
+
+
+# Referencias
+
+SecureAuth Corporation.https://github.com/SecureAuthCorp/impacket
+SamratAshok.https://github.com/samratashok/nishang
