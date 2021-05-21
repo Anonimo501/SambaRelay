@@ -99,7 +99,7 @@ $victima
 
 echo ""
 echo "		*					*"
-echo "		*	EMPECEMOS LA DIVERCION		*"
+echo "		*	EMPECEMOS LA DIVERSION		*"
 echo "		*					*"
 echo ""
 
