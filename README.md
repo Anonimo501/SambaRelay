@@ -11,8 +11,8 @@ Este script es creado para fines educativos o para hacer auditorias profesionale
 
 El script se ejecuto sobre ParrotOS 4.10
 
-# Samba Relay version 2
-para ir a la version 2 del script ve al link: 
+## Samba Relay version 2
+para ir a la version 2 del script ve al link: https://github.com/Anonimo501/SambaRelay_V2.git
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/67207446/119040557-2eaae600-b97b-11eb-8cf6-0ac4d2581527.png)
