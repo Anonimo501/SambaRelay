@@ -16,7 +16,7 @@ El script se ejecuto sobre ParrotOS 4.10
 ## Version del Script
 Version 2
 
-![smb relay v2](https://user-images.githubusercontent.com/67207446/119186517-ce30ad00-ba3d-11eb-9faf-21401a143fbc.PNG)
+![Captura](https://user-images.githubusercontent.com/67207446/120703323-c3810980-c47a-11eb-93d6-3a19caa26600.PNG)
 
 
 ## Uso
